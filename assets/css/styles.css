@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    display: inline;
+    font-size: 3em;
+    margin-left: 25vw;
+}
+
+#input-pokemones{
+    display: inline-block;
+    width: 50vh;
+    text-align: center;
+    margin-right: 0;
+    margin-left: 21vw;
+}
+
+.pokeball-responsive {
+    display: inline;
+    width: 10vh;
+    /* text-align: center; */
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom:3vh ;
+    position: relative;
+}
+
+.titulo-pokemon {
+    position: relative;
+    padding-top: 1vh;
+}
+
+.titulo-pokemon h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.poke-images {
+    display:flex;
+    align-content:flex-start;
+    justify-content: center;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    margin-top: 0;
+}
+
+
+#buscar {
+    margin-bottom: 1vh;
+    display: inline;
+}
